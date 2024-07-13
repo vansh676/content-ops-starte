@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: order from a wide range of food
+      text: Order from a wide range of food
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
